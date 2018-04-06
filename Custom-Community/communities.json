@@ -1,0 +1,29 @@
+{
+  "extensions": [
+    {
+      "path": "communities",
+      "application": "Communities Customization",
+      "payload": {
+	  "match": {
+		"url": "fullpageWidgetId=Members"
+		},
+		"user-email": ["randy.mendez@cv3.biz"] 
+			
+        "include-files": [
+          "Communit/communitiesCustomization.js"
+        ],
+        "include-repo": {
+          "name": "helloworld-cv3-rmm"
+        }
+      },
+      "name": "Communities Customization Ext RJMM",
+      "type": "com.ibm.customizer.ui"
+    }
+  ],
+  "name": "Communities Customization RJMM",
+  "description": "Add group management into communities",
+  "services": [
+    "Customizer"
+  ],
+  "title": "RJMM Communities Customization"
+}
