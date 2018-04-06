@@ -6,9 +6,9 @@
       "payload": {
 	  "match": {
 		"url": "fullpageWidgetId=Members"
+		  "user-email": ["randy.mendez@cv3.biz"]
 		},
-		"user-email": ["randy.mendez@cv3.biz"] 
-			
+		 			
         "include-files": [
           "Communit/communitiesCustomization.js"
         ],
