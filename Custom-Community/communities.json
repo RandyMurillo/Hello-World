@@ -10,7 +10,7 @@
 		},
 		 			
         "include-files": [
-          "Communit/communitiesCustomization.js"
+          "Custom-Community/communitiesCustomization.js"
         ],
         "include-repo": {
           "name": "helloworld-cv3-rmm"
