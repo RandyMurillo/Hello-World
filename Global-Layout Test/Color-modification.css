@@ -1,5 +1,5 @@
 
-#nav_bar_include { /*barra de navegacion de menu principal*/
+#nav_bar_include {
     background-color: rgba(227,6,19,0.95);   
 	font-size: 125%;
 }
@@ -15,7 +15,7 @@
 }
 
 
-.search-history-view-ui .lotusui30 .icSearchPaneButton { /*simbolo de la lupa*/
-	background-color: rgba(227,6,19,0.95);   /*Color rojo*/
-	outline: rgba(227,6,19,0.95) solid 1px; /*Enmarcar un objeto*/
+.search-history-view-ui .lotusui30 .icSearchPaneButton {
+	background-color: rgba(227,6,19,0.95);
+	outline: rgba(227,6,19,0.95) solid 1px;
 }
